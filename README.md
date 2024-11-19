@@ -6,3 +6,5 @@
 2. Code를 눌러서 git Clone을 해주세요. 혹은 GUI에서 git clone을 진행해주세요.
 3. 각각의 챕터에 가서 다시 readme를 읽으면서 진행해주세요!
 4. 레포지토리 마음에 드셨으면 Star를 눌러주세요!
+
+test
